@@ -47,24 +47,6 @@
       "changeable": 0
     },
     {
-            "key": "Wexkoukou",
-            "name": "🍒扣扣┃4K🍒",
-            "type": 3,
-            "api": "csp_Wexkoukou",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/3090177148/aaaa/js/wex.txt",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexkoukou2",
-            "name": "🍎扣扣┃4K2🍎",
-            "type": 3,
-            "api": "csp_Wexkoukou2",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/3090177148/aaaa/js/wex.txt",
-            "searchable": 1,
-            "changeable": 1
-        },
-    {
       "key": "夸克木偶弹幕",
       "name": "🇨🇳木偶｜4K🇨🇳",
       "type": 3,
