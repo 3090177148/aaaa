@@ -23,16 +23,6 @@
       "changeable": 0
     },
     {
-      "key": "Doubana",
-      "name": "🍥【网盘类】🍥",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/3090177148/aaaa/js/douban.json"
-    },
-    {
       "key": "配置中心",
       "name": "🍥高级┃设置",
       "type": 3,
