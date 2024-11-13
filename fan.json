@@ -1020,3 +1020,15 @@
     "mozai.4gtv.tv",
     "pv.vipwm.cc"
   ],
+  "lives": [
+        {
+            "name": "清风",
+            "type": 0,
+            "url": "https://ghp.ci/https://ghp.ci/https://github.com/3090177148/aaaa/blob/js/lan.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+    ]
+}
