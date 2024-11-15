@@ -47,6 +47,21 @@
       "changeable": 0
     },
     {
+      "key": "企鹅xp",
+      "name": "🐧鹅鹅┃体育┃直播",
+      "type": 3,
+      "api": "csp_XPath",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/3090177148/aaaa/js/moyu.php",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/企鹅直播.json"
+    },
+    
+    {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
@@ -83,6 +98,7 @@
       "name": "🌎玩偶智能┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/3090177148/aaaa/js/moyu.php",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
